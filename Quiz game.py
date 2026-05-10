@@ -25,7 +25,7 @@ questions = [
     {"question": "I ___ to a zoo, yesterday(Fill in the blank)", "options": ["went", "go", "gone"], "answer": "went"},
     {"question": "How many planets are in our solar system?", "options": ["8", "9", "1 X 10^10^10^10^10"], "answer": "8"},
     {"question": "1N = ?", "options": ["1 Kg.m/S^2", "9.8g.m/s", "0"], "answer": "1Kg.m/s^2"},
-    {"question": "What is 6 ÷ 2(1+2) = ?", "options": ["1", "9", "0"], "answer": "1"},
+    {"question": "What is 6 ÷ 2(1+2) = ?", "options": ["1", "9", "0"], "answer": "1"}, #add your own questions
 ]
 current_q = 0
 score = 0
