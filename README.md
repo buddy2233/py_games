@@ -1,4 +1,4 @@
-<img width="498" height="498" alt="TicEtTacTicEtTacRangersDuRisqueGIF" src="https://github.com/user-attachments/assets/f9cdb2f8-6929-4841-8f57-d6cde5a75054" /># py_games
+# py_games
 these are my first games that I made on python.
 # Pygame Arcade Collection
 
